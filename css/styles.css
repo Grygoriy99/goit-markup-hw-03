@@ -247,6 +247,7 @@ button {
   list-style: none;
   gap: 24px;
   align-items: center;
+  border-radius: 0px 0px 4px 4px;
 }
 .our-team-paragraph {
   color: #434455;
@@ -286,7 +287,7 @@ button {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  background-color: #f4f4fd;
+  /*background-color: #f4f4fd;*/
   text-align: center;
   text-transform: capitalize;
   margin-bottom: 72px;
