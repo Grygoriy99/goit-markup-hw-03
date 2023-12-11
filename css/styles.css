@@ -240,6 +240,12 @@ button {
 .our-portfolio {
   padding: 120px 0 120px 0;
 }
+.our-portfolio-header {
+  margin-bottom: 72px;
+}
+.our-portfolio-title {
+  margin-bottom: 8px;
+}
 .our-portfolio-conten {
   display: flex;
   flex-direction: column;
