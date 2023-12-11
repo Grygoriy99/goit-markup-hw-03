@@ -180,6 +180,20 @@ button {
 .our-advanteges {
   padding: 120px 0 120px 0;
 }
+.our-advanteges-header {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+}
+.our-advanteges-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+}
 .our-advanteges-item {
   display: flex;
   flex-direction: column;
@@ -202,7 +216,21 @@ button {
   padding: 120px 0 120px 0;
 }
 .our-team-header {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  text-align: center;
+  text-transform: capitalize;
   margin-bottom: 72px;
+}
+.our-team-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
 }
 .our-team-list {
   display: flex;
@@ -211,7 +239,6 @@ button {
   gap: 24px;
   align-items: center;
 }
-
 .our-team-list-properties {
   background-color: #ffffff;
   width: calc((100% - 72) / 4);
@@ -229,12 +256,6 @@ button {
   align-items: center;
   padding: 32px 0;
 }
-
-/*
-.our-team-list {
-  background-color: #ffffff;
-}
-*/
 .our-team-list-properties {
   background-color: #ffffff;
 }
@@ -244,9 +265,22 @@ button {
   padding: 120px 0 120px 0;
 }
 .our-portfolio-header {
+  color: #2e2f42;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+  letter-spacing: 0.02em;
+  background-color: #f4f4fd;
+  text-align: center;
+  text-transform: capitalize;
   margin-bottom: 72px;
 }
 .our-portfolio-title {
+  color: #2e2f42;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
   margin-bottom: 8px;
 }
 .our-portfolio-conten {
@@ -273,56 +307,6 @@ button {
   flex-direction: column;
   align-items: flex-start;
   flex-shrink: 0;
-}
-/* headers */
-.our-advanteges-header {
-  color: #2e2f42;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-}
-.our-team-header {
-  color: #2e2f42;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  text-align: center;
-  text-transform: capitalize;
-}
-.our-portfolio-header {
-  color: #2e2f42;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1.11;
-  letter-spacing: 0.02em;
-  background-color: #f4f4fd;
-  text-align: center;
-  text-transform: capitalize;
-}
-
-/*title */
-.our-advanteges-title {
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.our-team-title {
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
-}
-.our-portfolio-title {
-  color: #2e2f42;
-  font-size: 20px;
-  font-weight: 500;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
 }
 
 /*paragraph */
