@@ -247,7 +247,6 @@ button {
   list-style: none;
   gap: 24px;
   align-items: center;
-  border-radius: 0px 0px 4px 4px;
 }
 .our-team-paragraph {
   color: #434455;
@@ -275,6 +274,7 @@ button {
 }
 .our-team-list-properties {
   background-color: #ffffff;
+  border-radius: 0px 0px 4px 4px;
 }
 
 /* Our Portfolio */
