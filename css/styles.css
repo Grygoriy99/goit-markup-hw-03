@@ -74,6 +74,7 @@ button {
 
 .header {
   border-bottom: 1px solid #e7e9fc;
+  padding: 0 15px;
 }
 
 /*.header-item:not(:last-child) {
@@ -145,6 +146,7 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin: auto;
 }
 .hero-text {
   color: #fff;
