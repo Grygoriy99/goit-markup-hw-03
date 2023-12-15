@@ -59,11 +59,12 @@ button {
 .header-nav {
   display: flex;
   align-items: center;
+  margin-right: auto;
 }
 .header-list {
   display: flex;
   gap: 40px;
-  margin-right: 332px;
+  /*margin-right: 332px;*/
 }
 
 .adress-list {
@@ -335,7 +336,7 @@ button {
   flex-shrink: 0;
 }
 
-/*paragraph */
+/*paragraph
 .our-advantages-paragraph,
 .our-team-paragraph,
 .our-portfolio-paragraph {
@@ -343,7 +344,7 @@ button {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-}
+} */
 
 /* footer */
 .footer {
